@@ -1,0 +1,43 @@
+body{
+margin: 0;
+padding: 0;
+background-color: #f4f4f4 ;
+}
+
+.login{
+margin: auto;
+margin-top: 100px;
+width: 260px;
+height: 210px;
+background-color: #4366a548;
+border-radius: 4%;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.form{
+margin: auto;
+width: 90%;
+text-align: center;
+
+}
+
+.data-user{
+margin: auto;
+margin-top: 100px;
+width: 300px;
+text-align: center;
+height: 390px;
+background-color: #4366a548;
+border-radius: 2%;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+}
+
+.perfilimg{
+
+width: 250px;
+border-radius: 4%;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+}
